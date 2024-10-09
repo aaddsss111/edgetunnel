@@ -1250,6 +1250,7 @@ function checkSUB(host) {
 	if ((!sub || sub == '') && (addresses.length + addressesapi.length + addressesnotls.length + addressesnotlsapi.length + addressescsv.length) == 0){
 		addresses = [
 			'Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz#111',
+			'13.209.166.73:80',
 			'visa.cn:443',
 			'www.visa.com:8443',
 			'cis.visa.com:2053',
